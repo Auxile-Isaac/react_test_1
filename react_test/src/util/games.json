@@ -1,0 +1,182 @@
+[
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "The Wish Master",
+    "image": "http://stage.whgstage.com/scontent/images/games/NETHEWISHMASTER.jpg",
+    "id": "NETHEWISHMASTER"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Aliens",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEALIENS.jpg",
+    "id": "NEALIENS"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Starburst",
+    "image": "http://stage.whgstage.com/scontent/images/games/NESTARBURST.jpg",
+    "id": "NESTARBURST"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Jack Hammer 2",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEJACKHAMMER2.jpg",
+    "id": "NEJACKHAMMER2"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Blood Suckers",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEBLOODSUCKERS.jpg",
+    "id": "NEBLOODSUCKERS"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Zombie Rush",
+    "image": "http://stage.whgstage.com/scontent/images/games/LEZOMBIERUSH.jpg",
+    "id": "LEZOMBIERUSH"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Dragon Drop",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXDRAGONDROP.jpg",
+    "id": "NYXDRAGONDROP"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Foxin Wins",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXFOXINWINS.jpg",
+    "id": "NYXFOXINWINS"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Beowulf",
+    "image": "http://stage.whgstage.com/scontent/images/games/LEBEOWULF.jpg",
+    "id": "LEBEOWULF"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Rook's Revenge",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSROCKSREVENGE.jpg",
+    "id": "BSROCKSREVENGE"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Medusa",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXMEDUSA.jpg",
+    "id": "NYXMEDUSA"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "A While on the Nile",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXAWHILEONTHENILE.jpg",
+    "id": "NYXAWHILEONTHENILE"
+  },
+  {
+    "categories": ["top", "slots"],
+    "name": "Queen of Thrones",
+    "image": "http://stage.whgstage.com/scontent/images/games/LEQUEENOFTHRONES9B6.jpg",
+    "id": "LEQUEENOFTHRONES9B6"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Twin Spin",
+    "image": "http://stage.whgstage.com/scontent/images/games/NETWINSPIN.jpg",
+    "id": "NETWINSPIN"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Jack and the Beanstalk",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEJACKANDTHEBEANSTALK.jpg",
+    "id": "NEJACKANDTHEBEANSTALK"
+  },
+  {
+    "categories": ["top", "slots", "new"],
+    "name": "Gonzo's Quest",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEGONZOSQUEST.jpg",
+    "id": "NEGONZOSQUEST"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Super Nova",
+    "image": "http://stage.whgstage.com/scontent/images/games/LESUPERNOVA.jpg",
+    "id": "LESUPERNOVA"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Chase the Cheese",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSCHASETHECHEESE.jpg",
+    "id": "BSCHASETHECHEESE"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Gladiator",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSGLADIATOR.jpg",
+    "id": "BSGLADIATOR"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Mr Vegas",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSMRVEGAS.jpg",
+    "id": "BSMRVEGAS"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Pharaoh King",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSPHARAOHKING.jpg",
+    "id": "BSPHARAOHKING"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Pablo Picasso Slot",
+    "image": "http://stage.whgstage.com/scontent/images/games/LEPABLOPICASSOSLOT.jpg",
+    "id": "LEPABLOPICASSOSLOT"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Merlin's Magic Respins",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXMERLINSMAGICRESPINS.jpg",
+    "id": "NYXMERLINSMAGICRESPINS"
+  },
+  {
+    "categories": ["slots"],
+    "name": "2 Million BC",
+    "image": "http://stage.whgstage.com/scontent/images/games/BS2MILLIONBC.jpg",
+    "id": "BS2MILLIONBC"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Glam or Sham",
+    "image": "http://stage.whgstage.com/scontent/images/games/LEGLAMORSHAM.jpg",
+    "id": "LEGLAMORSHAM"
+  },
+  {
+    "categories": ["slots", "new"],
+    "name": "Jack Hammer",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEJACKHAMMER.jpg",
+    "id": "NEJACKHAMMER"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Secrets of the Tomb",
+    "image": "http://stage.whgstage.com/scontent/images/games/LESECRETSOFTHETOMB.jpg",
+    "id": "LESECRETSOFTHETOMB"
+  },
+  {
+    "categories": ["slots", "new"],
+    "name": "Wild Water",
+    "image": "http://stage.whgstage.com/scontent/images/games/NEWILDWATER.jpg",
+    "id": "NEWILDWATER"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Extra Cash!!",
+    "image": "http://stage.whgstage.com/scontent/images/games/NYXEXTRACASH!!.jpg",
+    "id": "NYXEXTRACASH"
+  },
+  {
+    "categories": ["slots"],
+    "name": "Arrival",
+    "image": "http://stage.whgstage.com/scontent/images/games/BSARRIVAL.jpg",
+    "id": "BSARRIVAL"
+  }
+]
